@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://www.takes.org/logo.png" height="64px"/>
+<img src="https://www.takes.org/logo.png](https://irungumaina.com/wp-content/uploads/2023/03/Irungu-Maina-website-Logo.jpg" height="64px"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
