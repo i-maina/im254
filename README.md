@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, my name is Irungu Maina</h1>
 <h3>Software Engineer: Web | Cloud</h3>
-I’m a passionate full-stack developer with years of experience crafting creative solutions to a variety of problems,<br>
+I’m a passionate Full-stack developer with years of experience crafting creative solutions to a variety of problems,<br>
 especially web and cloud based challenges. I leverage my expertise in problem-solving skills and technologies,<br>to bring solutions to your needs.
 
-- 🔭 I’m currently working with Python, JavaAscript, Django, Wagtail, React,  ...
+- 🔭 I’m currently working with Python, JavaScript, Django, Wagtail, React, ...
 - 🌱 I’m currently Interested in Cloud Computing, AI, Edutech
-
+- 🌱 I have preciously worked with PHP, Laravel, WordPress, Vue, ....
 - 📝 I regularly write articles on [https://irungumaina.com/](https://irungumaina.com/)
 
 - 📄 Know about my experiences [https://irungumaina.com/](https://irungumaina.com/)
