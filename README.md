@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, my name is Irungu Maina </h1>
 <h3>Software Engineer</h3>
-I’m a passionate Full-stack developer with years of experience crafting creative solutions to a variety of problems,<br>
-especially web based challenges. I leverage my expertise in problem-solving skills and technologies,<br>to bring solutions to your needs.
+A Full-stack software developer with years of experience crafting creative solutions to a variety of problems.<br>
+I leverage my expertise in problem-solving skills and technologies,to bring solutions to your needs.
 
 - 🔭 I’m currently working with Python, Django, JavaScript, React, ...
-- 🌱 I’m currently Interested in Web solutions, AI, Data and Cloud Computing
+- 🌱 I’m currently Interested in Web, AI and Cloud Computing
 - 🌱 I have preciously worked with PHP, Laravel, WordPress, Vue, ....
 - 📝 I regularly write articles on [https://imaina.com/](https://imaina.com/)
 
@@ -24,7 +24,7 @@ especially web based challenges. I leverage my expertise in problem-solving skil
 <p align="left">
 <a href="https://twitter.com/irungumaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irungumaina" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/irungumaina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irungumaina" height="30" width="40" /></a>
-<a href="/https://irungumaina.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://irungumaina.com/feed" height="30" width="40" /></a>
+<a href="/https://imaina.com/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://imaina.com/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
